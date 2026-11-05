@@ -44,10 +44,10 @@
 # Si les deux depots sont deja synchronises,
 # git pull indique que tout est deja a jour.
 
+# Partie 2 :
+
 # Etape 1 : Ouvrir GitHub
 # Acceder au depot TP_Git_Python
-
-# Partie 2 :
 
 # Etape 2 : Recuperer le projet
 # Copier le lien HTTPS du depot
